@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\ifSimples\ifSimples\bin\Debug\netcoreapp3.1\ifSimples.exe
+C:\AvanadeDezembro\ifSimples\ifSimples\bin\Debug\netcoreapp3.1\ifSimples.deps.json
+C:\AvanadeDezembro\ifSimples\ifSimples\bin\Debug\netcoreapp3.1\ifSimples.runtimeconfig.json
+C:\AvanadeDezembro\ifSimples\ifSimples\bin\Debug\netcoreapp3.1\ifSimples.runtimeconfig.dev.json
+C:\AvanadeDezembro\ifSimples\ifSimples\bin\Debug\netcoreapp3.1\ifSimples.dll
+C:\AvanadeDezembro\ifSimples\ifSimples\bin\Debug\netcoreapp3.1\ifSimples.pdb
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.Form1.resources
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.csproj.GenerateResource.cache
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.AssemblyInfo.cs
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.dll
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.pdb
+C:\AvanadeDezembro\ifSimples\ifSimples\obj\Debug\netcoreapp3.1\ifSimples.genruntimeconfig.cache

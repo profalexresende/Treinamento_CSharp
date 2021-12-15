@@ -1,0 +1,15 @@
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\bin\Debug\netcoreapp3.1\exemploComboBox.exe
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\bin\Debug\netcoreapp3.1\exemploComboBox.deps.json
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\bin\Debug\netcoreapp3.1\exemploComboBox.runtimeconfig.json
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\bin\Debug\netcoreapp3.1\exemploComboBox.runtimeconfig.dev.json
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\bin\Debug\netcoreapp3.1\exemploComboBox.dll
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\bin\Debug\netcoreapp3.1\exemploComboBox.pdb
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.Form1.resources
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.csproj.GenerateResource.cache
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.AssemblyInfo.cs
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.dll
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.pdb
+C:\AvanadeDezembro\exemploComboBox\exemploComboBox\obj\Debug\netcoreapp3.1\exemploComboBox.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\bin\Debug\netcoreapp3.1\opLogicoNAO.exe
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\bin\Debug\netcoreapp3.1\opLogicoNAO.deps.json
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\bin\Debug\netcoreapp3.1\opLogicoNAO.runtimeconfig.json
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\bin\Debug\netcoreapp3.1\opLogicoNAO.runtimeconfig.dev.json
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\bin\Debug\netcoreapp3.1\opLogicoNAO.dll
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\bin\Debug\netcoreapp3.1\opLogicoNAO.pdb
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.Form1.resources
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.csproj.GenerateResource.cache
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.AssemblyInfo.cs
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.dll
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.pdb
+C:\AvanadeDezembro\opLogicoNAO\opLogicoNAO\obj\Debug\netcoreapp3.1\opLogicoNAO.genruntimeconfig.cache

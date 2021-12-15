@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\mediaKM\mediaKM\bin\Debug\netcoreapp3.1\mediaKM.exe
+C:\AvanadeDezembro\mediaKM\mediaKM\bin\Debug\netcoreapp3.1\mediaKM.deps.json
+C:\AvanadeDezembro\mediaKM\mediaKM\bin\Debug\netcoreapp3.1\mediaKM.runtimeconfig.json
+C:\AvanadeDezembro\mediaKM\mediaKM\bin\Debug\netcoreapp3.1\mediaKM.runtimeconfig.dev.json
+C:\AvanadeDezembro\mediaKM\mediaKM\bin\Debug\netcoreapp3.1\mediaKM.dll
+C:\AvanadeDezembro\mediaKM\mediaKM\bin\Debug\netcoreapp3.1\mediaKM.pdb
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.Form1.resources
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.csproj.GenerateResource.cache
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.AssemblyInfo.cs
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.dll
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.pdb
+C:\AvanadeDezembro\mediaKM\mediaKM\obj\Debug\netcoreapp3.1\mediaKM.genruntimeconfig.cache

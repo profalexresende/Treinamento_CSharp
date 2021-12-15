@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "opLogicoE/1.0.0": {
+        "runtime": {
+          "opLogicoE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "opLogicoE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

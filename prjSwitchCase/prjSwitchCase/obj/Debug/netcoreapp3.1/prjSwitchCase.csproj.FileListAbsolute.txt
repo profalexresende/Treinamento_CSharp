@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\bin\Debug\netcoreapp3.1\prjSwitchCase.exe
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\bin\Debug\netcoreapp3.1\prjSwitchCase.deps.json
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\bin\Debug\netcoreapp3.1\prjSwitchCase.runtimeconfig.json
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\bin\Debug\netcoreapp3.1\prjSwitchCase.runtimeconfig.dev.json
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\bin\Debug\netcoreapp3.1\prjSwitchCase.dll
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\bin\Debug\netcoreapp3.1\prjSwitchCase.pdb
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.Form1.resources
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.csproj.GenerateResource.cache
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.AssemblyInfo.cs
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.dll
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.pdb
+C:\AvanadeDezembro\prjSwitchCase\prjSwitchCase\obj\Debug\netcoreapp3.1\prjSwitchCase.genruntimeconfig.cache

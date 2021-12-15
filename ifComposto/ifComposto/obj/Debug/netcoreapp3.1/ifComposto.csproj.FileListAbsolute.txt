@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\ifComposto\ifComposto\bin\Debug\netcoreapp3.1\ifComposto.exe
+C:\AvanadeDezembro\ifComposto\ifComposto\bin\Debug\netcoreapp3.1\ifComposto.deps.json
+C:\AvanadeDezembro\ifComposto\ifComposto\bin\Debug\netcoreapp3.1\ifComposto.runtimeconfig.json
+C:\AvanadeDezembro\ifComposto\ifComposto\bin\Debug\netcoreapp3.1\ifComposto.runtimeconfig.dev.json
+C:\AvanadeDezembro\ifComposto\ifComposto\bin\Debug\netcoreapp3.1\ifComposto.dll
+C:\AvanadeDezembro\ifComposto\ifComposto\bin\Debug\netcoreapp3.1\ifComposto.pdb
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.Form1.resources
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.csproj.GenerateResource.cache
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.AssemblyInfo.cs
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.dll
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.pdb
+C:\AvanadeDezembro\ifComposto\ifComposto\obj\Debug\netcoreapp3.1\ifComposto.genruntimeconfig.cache

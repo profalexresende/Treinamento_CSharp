@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\bin\Debug\netcoreapp3.1\ifEncadeado.exe
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\bin\Debug\netcoreapp3.1\ifEncadeado.deps.json
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\bin\Debug\netcoreapp3.1\ifEncadeado.runtimeconfig.json
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\bin\Debug\netcoreapp3.1\ifEncadeado.runtimeconfig.dev.json
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\bin\Debug\netcoreapp3.1\ifEncadeado.dll
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\bin\Debug\netcoreapp3.1\ifEncadeado.pdb
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.Form1.resources
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.csproj.GenerateResource.cache
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.AssemblyInfo.cs
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.dll
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.pdb
+C:\AvanadeDezembro\ifEncadeado\ifEncadeado\obj\Debug\netcoreapp3.1\ifEncadeado.genruntimeconfig.cache

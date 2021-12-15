@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.exe
+C:\AvanadeDezembro\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.deps.json
+C:\AvanadeDezembro\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.runtimeconfig.json
+C:\AvanadeDezembro\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.runtimeconfig.dev.json
+C:\AvanadeDezembro\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.dll
+C:\AvanadeDezembro\saldoMedio\saldoMedio\bin\Debug\netcoreapp3.1\saldoMedio.pdb
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.Form1.resources
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.csproj.GenerateResource.cache
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.AssemblyInfo.cs
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.dll
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.pdb
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.genruntimeconfig.cache
+C:\AvanadeDezembro\saldoMedio\saldoMedio\obj\Debug\netcoreapp3.1\saldoMedio.csproj.AssemblyReference.cache

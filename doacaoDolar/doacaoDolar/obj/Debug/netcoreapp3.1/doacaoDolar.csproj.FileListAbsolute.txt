@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\bin\Debug\netcoreapp3.1\doacaoDolar.exe
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\bin\Debug\netcoreapp3.1\doacaoDolar.deps.json
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\bin\Debug\netcoreapp3.1\doacaoDolar.runtimeconfig.json
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\bin\Debug\netcoreapp3.1\doacaoDolar.runtimeconfig.dev.json
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\bin\Debug\netcoreapp3.1\doacaoDolar.dll
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\bin\Debug\netcoreapp3.1\doacaoDolar.pdb
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.Form1.resources
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.csproj.GenerateResource.cache
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.AssemblyInfo.cs
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.dll
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.pdb
+C:\AvanadeDezembro\doacaoDolar\doacaoDolar\obj\Debug\netcoreapp3.1\doacaoDolar.genruntimeconfig.cache

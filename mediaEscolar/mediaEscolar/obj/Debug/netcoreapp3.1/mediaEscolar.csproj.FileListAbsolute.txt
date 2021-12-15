@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\bin\Debug\netcoreapp3.1\mediaEscolar.exe
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\bin\Debug\netcoreapp3.1\mediaEscolar.deps.json
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\bin\Debug\netcoreapp3.1\mediaEscolar.runtimeconfig.json
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\bin\Debug\netcoreapp3.1\mediaEscolar.runtimeconfig.dev.json
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\bin\Debug\netcoreapp3.1\mediaEscolar.dll
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\bin\Debug\netcoreapp3.1\mediaEscolar.pdb
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.Form1.resources
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.csproj.GenerateResource.cache
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.AssemblyInfo.cs
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.dll
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.pdb
+C:\AvanadeDezembro\mediaEscolar\mediaEscolar\obj\Debug\netcoreapp3.1\mediaEscolar.genruntimeconfig.cache
