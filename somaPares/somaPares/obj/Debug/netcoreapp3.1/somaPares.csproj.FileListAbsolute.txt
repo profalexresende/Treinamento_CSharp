@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\somaPares\somaPares\bin\Debug\netcoreapp3.1\somaPares.exe
+C:\AvanadeDezembro\somaPares\somaPares\bin\Debug\netcoreapp3.1\somaPares.deps.json
+C:\AvanadeDezembro\somaPares\somaPares\bin\Debug\netcoreapp3.1\somaPares.runtimeconfig.json
+C:\AvanadeDezembro\somaPares\somaPares\bin\Debug\netcoreapp3.1\somaPares.runtimeconfig.dev.json
+C:\AvanadeDezembro\somaPares\somaPares\bin\Debug\netcoreapp3.1\somaPares.dll
+C:\AvanadeDezembro\somaPares\somaPares\bin\Debug\netcoreapp3.1\somaPares.pdb
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.Form1.resources
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.csproj.GenerateResource.cache
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.AssemblyInfo.cs
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.dll
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.pdb
+C:\AvanadeDezembro\somaPares\somaPares\obj\Debug\netcoreapp3.1\somaPares.genruntimeconfig.cache

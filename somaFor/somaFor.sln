@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "somaFor", "somaFor\somaFor.csproj", "{7F7C32DE-FD74-488A-AAF3-66CA532B38CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F7C32DE-FD74-488A-AAF3-66CA532B38CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F7C32DE-FD74-488A-AAF3-66CA532B38CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F7C32DE-FD74-488A-AAF3-66CA532B38CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F7C32DE-FD74-488A-AAF3-66CA532B38CB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B9A4859-51B7-4C37-991A-BAE9C6826AE5}
+	EndGlobalSection
+EndGlobal

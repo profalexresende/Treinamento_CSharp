@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\netcoreapp3.1\fatorialWhile.exe
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\netcoreapp3.1\fatorialWhile.deps.json
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\netcoreapp3.1\fatorialWhile.runtimeconfig.json
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\netcoreapp3.1\fatorialWhile.runtimeconfig.dev.json
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\netcoreapp3.1\fatorialWhile.dll
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\bin\Debug\netcoreapp3.1\fatorialWhile.pdb
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.Form1.resources
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.csproj.GenerateResource.cache
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.AssemblyInfo.cs
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.dll
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.pdb
+C:\AvanadeDezembro\fatorialWhile\fatorialWhile\obj\Debug\netcoreapp3.1\fatorialWhile.genruntimeconfig.cache

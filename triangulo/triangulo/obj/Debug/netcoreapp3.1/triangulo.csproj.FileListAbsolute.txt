@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.Form1.resources
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.csproj.GenerateResource.cache
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.AssemblyInfo.cs
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\triangulo\triangulo\bin\Debug\netcoreapp3.1\triangulo.exe
+C:\AvanadeDezembro\triangulo\triangulo\bin\Debug\netcoreapp3.1\triangulo.deps.json
+C:\AvanadeDezembro\triangulo\triangulo\bin\Debug\netcoreapp3.1\triangulo.runtimeconfig.json
+C:\AvanadeDezembro\triangulo\triangulo\bin\Debug\netcoreapp3.1\triangulo.runtimeconfig.dev.json
+C:\AvanadeDezembro\triangulo\triangulo\bin\Debug\netcoreapp3.1\triangulo.dll
+C:\AvanadeDezembro\triangulo\triangulo\bin\Debug\netcoreapp3.1\triangulo.pdb
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.dll
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.pdb
+C:\AvanadeDezembro\triangulo\triangulo\obj\Debug\netcoreapp3.1\triangulo.genruntimeconfig.cache

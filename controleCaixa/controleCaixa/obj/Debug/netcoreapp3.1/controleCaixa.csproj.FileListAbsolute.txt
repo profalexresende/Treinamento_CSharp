@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.exe
+C:\AvanadeDezembro\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.deps.json
+C:\AvanadeDezembro\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.runtimeconfig.json
+C:\AvanadeDezembro\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.runtimeconfig.dev.json
+C:\AvanadeDezembro\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.dll
+C:\AvanadeDezembro\controleCaixa\controleCaixa\bin\Debug\netcoreapp3.1\controleCaixa.pdb
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.Form1.resources
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.csproj.GenerateResource.cache
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.AssemblyInfo.cs
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.dll
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.pdb
+C:\AvanadeDezembro\controleCaixa\controleCaixa\obj\Debug\netcoreapp3.1\controleCaixa.genruntimeconfig.cache

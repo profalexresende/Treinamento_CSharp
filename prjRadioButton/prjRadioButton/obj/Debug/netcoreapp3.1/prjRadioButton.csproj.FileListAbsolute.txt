@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\bin\Debug\netcoreapp3.1\prjRadioButton.exe
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\bin\Debug\netcoreapp3.1\prjRadioButton.deps.json
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\bin\Debug\netcoreapp3.1\prjRadioButton.runtimeconfig.json
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\bin\Debug\netcoreapp3.1\prjRadioButton.runtimeconfig.dev.json
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\bin\Debug\netcoreapp3.1\prjRadioButton.dll
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\bin\Debug\netcoreapp3.1\prjRadioButton.pdb
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.Form1.resources
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.csproj.GenerateResource.cache
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.AssemblyInfo.cs
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.dll
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.pdb
+C:\AvanadeDezembro\prjRadioButton\prjRadioButton\obj\Debug\netcoreapp3.1\prjRadioButton.genruntimeconfig.cache

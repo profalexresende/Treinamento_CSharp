@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "somaPares", "somaPares\somaPares.csproj", "{9F72BE57-906A-4F16-8850-D4E1FFE83FDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F72BE57-906A-4F16-8850-D4E1FFE83FDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F72BE57-906A-4F16-8850-D4E1FFE83FDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F72BE57-906A-4F16-8850-D4E1FFE83FDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F72BE57-906A-4F16-8850-D4E1FFE83FDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD1D36AD-7597-417A-A872-B01A393CC092}
+	EndGlobalSection
+EndGlobal

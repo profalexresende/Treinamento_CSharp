@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\bin\Debug\netcoreapp3.1\lacosRepeticao.exe
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\bin\Debug\netcoreapp3.1\lacosRepeticao.deps.json
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\bin\Debug\netcoreapp3.1\lacosRepeticao.runtimeconfig.json
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\bin\Debug\netcoreapp3.1\lacosRepeticao.runtimeconfig.dev.json
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\bin\Debug\netcoreapp3.1\lacosRepeticao.dll
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\bin\Debug\netcoreapp3.1\lacosRepeticao.pdb
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.Form1.resources
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.csproj.GenerateResource.cache
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.AssemblyInfo.cs
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.dll
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.pdb
+C:\AvanadeDezembro\lacosRepeticao\lacosRepeticao\obj\Debug\netcoreapp3.1\lacosRepeticao.genruntimeconfig.cache

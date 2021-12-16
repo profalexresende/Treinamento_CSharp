@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\somaFor\somaFor\bin\Debug\netcoreapp3.1\somaFor.exe
+C:\AvanadeDezembro\somaFor\somaFor\bin\Debug\netcoreapp3.1\somaFor.deps.json
+C:\AvanadeDezembro\somaFor\somaFor\bin\Debug\netcoreapp3.1\somaFor.runtimeconfig.json
+C:\AvanadeDezembro\somaFor\somaFor\bin\Debug\netcoreapp3.1\somaFor.runtimeconfig.dev.json
+C:\AvanadeDezembro\somaFor\somaFor\bin\Debug\netcoreapp3.1\somaFor.dll
+C:\AvanadeDezembro\somaFor\somaFor\bin\Debug\netcoreapp3.1\somaFor.pdb
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.Form1.resources
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.csproj.GenerateResource.cache
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.AssemblyInfo.cs
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.dll
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.pdb
+C:\AvanadeDezembro\somaFor\somaFor\obj\Debug\netcoreapp3.1\somaFor.genruntimeconfig.cache

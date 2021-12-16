@@ -1,0 +1,17 @@
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.exe
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.deps.json
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.runtimeconfig.json
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.runtimeconfig.dev.json
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.dll
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\bin\Debug\netcoreapp3.1\mediaFrequencia.pdb
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.Form1.resources
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.frmMedia.resources
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.csproj.GenerateResource.cache
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.AssemblyInfo.cs
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.dll
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.pdb
+C:\AvanadeDezembro\mediaFrequencia\mediaFrequencia\obj\Debug\netcoreapp3.1\mediaFrequencia.genruntimeconfig.cache
