@@ -1,0 +1,10 @@
+C:\AvanadeDezembro\inverterVetor\inverterVetor\bin\Debug\inverterVetor.exe.config
+C:\AvanadeDezembro\inverterVetor\inverterVetor\bin\Debug\inverterVetor.exe
+C:\AvanadeDezembro\inverterVetor\inverterVetor\bin\Debug\inverterVetor.pdb
+C:\AvanadeDezembro\inverterVetor\inverterVetor\obj\Debug\inverterVetor.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\inverterVetor\inverterVetor\obj\Debug\inverterVetor.Form1.resources
+C:\AvanadeDezembro\inverterVetor\inverterVetor\obj\Debug\inverterVetor.Properties.Resources.resources
+C:\AvanadeDezembro\inverterVetor\inverterVetor\obj\Debug\inverterVetor.csproj.GenerateResource.cache
+C:\AvanadeDezembro\inverterVetor\inverterVetor\obj\Debug\inverterVetor.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\inverterVetor\inverterVetor\obj\Debug\inverterVetor.exe
+C:\AvanadeDezembro\inverterVetor\inverterVetor\obj\Debug\inverterVetor.pdb

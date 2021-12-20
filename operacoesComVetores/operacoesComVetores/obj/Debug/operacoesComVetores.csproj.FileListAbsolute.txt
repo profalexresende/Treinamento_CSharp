@@ -1,0 +1,10 @@
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\bin\Debug\operacoesComVetores.exe.config
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\bin\Debug\operacoesComVetores.exe
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\bin\Debug\operacoesComVetores.pdb
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.Form1.resources
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.Properties.Resources.resources
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.csproj.GenerateResource.cache
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.exe
+C:\AvanadeDezembro\operacoesComVetores\operacoesComVetores\obj\Debug\operacoesComVetores.pdb

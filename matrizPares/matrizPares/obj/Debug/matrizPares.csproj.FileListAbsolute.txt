@@ -1,0 +1,10 @@
+C:\AvanadeDezembro\matrizPares\matrizPares\bin\Debug\matrizPares.exe.config
+C:\AvanadeDezembro\matrizPares\matrizPares\bin\Debug\matrizPares.exe
+C:\AvanadeDezembro\matrizPares\matrizPares\bin\Debug\matrizPares.pdb
+C:\AvanadeDezembro\matrizPares\matrizPares\obj\Debug\matrizPares.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\matrizPares\matrizPares\obj\Debug\matrizPares.Form1.resources
+C:\AvanadeDezembro\matrizPares\matrizPares\obj\Debug\matrizPares.Properties.Resources.resources
+C:\AvanadeDezembro\matrizPares\matrizPares\obj\Debug\matrizPares.csproj.GenerateResource.cache
+C:\AvanadeDezembro\matrizPares\matrizPares\obj\Debug\matrizPares.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\matrizPares\matrizPares\obj\Debug\matrizPares.exe
+C:\AvanadeDezembro\matrizPares\matrizPares\obj\Debug\matrizPares.pdb

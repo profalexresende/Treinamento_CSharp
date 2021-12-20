@@ -1,0 +1,10 @@
+C:\AvanadeDezembro\somaMatriz\somaMatriz\bin\Debug\somaMatriz.exe.config
+C:\AvanadeDezembro\somaMatriz\somaMatriz\bin\Debug\somaMatriz.exe
+C:\AvanadeDezembro\somaMatriz\somaMatriz\bin\Debug\somaMatriz.pdb
+C:\AvanadeDezembro\somaMatriz\somaMatriz\obj\Debug\somaMatriz.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\somaMatriz\somaMatriz\obj\Debug\somaMatriz.Form1.resources
+C:\AvanadeDezembro\somaMatriz\somaMatriz\obj\Debug\somaMatriz.Properties.Resources.resources
+C:\AvanadeDezembro\somaMatriz\somaMatriz\obj\Debug\somaMatriz.csproj.GenerateResource.cache
+C:\AvanadeDezembro\somaMatriz\somaMatriz\obj\Debug\somaMatriz.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\somaMatriz\somaMatriz\obj\Debug\somaMatriz.exe
+C:\AvanadeDezembro\somaMatriz\somaMatriz\obj\Debug\somaMatriz.pdb

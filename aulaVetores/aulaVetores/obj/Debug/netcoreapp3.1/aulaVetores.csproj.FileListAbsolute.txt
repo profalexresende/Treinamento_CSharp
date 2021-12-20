@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\aulaVetores\aulaVetores\bin\Debug\netcoreapp3.1\aulaVetores.exe
+C:\AvanadeDezembro\aulaVetores\aulaVetores\bin\Debug\netcoreapp3.1\aulaVetores.deps.json
+C:\AvanadeDezembro\aulaVetores\aulaVetores\bin\Debug\netcoreapp3.1\aulaVetores.runtimeconfig.json
+C:\AvanadeDezembro\aulaVetores\aulaVetores\bin\Debug\netcoreapp3.1\aulaVetores.runtimeconfig.dev.json
+C:\AvanadeDezembro\aulaVetores\aulaVetores\bin\Debug\netcoreapp3.1\aulaVetores.dll
+C:\AvanadeDezembro\aulaVetores\aulaVetores\bin\Debug\netcoreapp3.1\aulaVetores.pdb
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.Form1.resources
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.csproj.GenerateResource.cache
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.AssemblyInfo.cs
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.dll
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.pdb
+C:\AvanadeDezembro\aulaVetores\aulaVetores\obj\Debug\netcoreapp3.1\aulaVetores.genruntimeconfig.cache

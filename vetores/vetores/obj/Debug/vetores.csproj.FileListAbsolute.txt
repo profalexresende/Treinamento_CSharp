@@ -1,0 +1,11 @@
+C:\AvanadeDezembro\vetores\vetores\bin\Debug\vetores.exe.config
+C:\AvanadeDezembro\vetores\vetores\bin\Debug\vetores.exe
+C:\AvanadeDezembro\vetores\vetores\bin\Debug\vetores.pdb
+C:\AvanadeDezembro\vetores\vetores\obj\Debug\vetores.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\vetores\vetores\obj\Debug\vetores.csproj.ResolveComReference.cache
+C:\AvanadeDezembro\vetores\vetores\obj\Debug\vetores.Form1.resources
+C:\AvanadeDezembro\vetores\vetores\obj\Debug\vetores.Properties.Resources.resources
+C:\AvanadeDezembro\vetores\vetores\obj\Debug\vetores.csproj.GenerateResource.cache
+C:\AvanadeDezembro\vetores\vetores\obj\Debug\vetores.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\vetores\vetores\obj\Debug\vetores.exe
+C:\AvanadeDezembro\vetores\vetores\obj\Debug\vetores.pdb

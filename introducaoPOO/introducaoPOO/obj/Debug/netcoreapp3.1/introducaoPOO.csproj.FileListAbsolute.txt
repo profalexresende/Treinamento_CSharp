@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\bin\Debug\netcoreapp3.1\introducaoPOO.exe
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\bin\Debug\netcoreapp3.1\introducaoPOO.deps.json
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\bin\Debug\netcoreapp3.1\introducaoPOO.runtimeconfig.json
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\bin\Debug\netcoreapp3.1\introducaoPOO.runtimeconfig.dev.json
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\bin\Debug\netcoreapp3.1\introducaoPOO.dll
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\bin\Debug\netcoreapp3.1\introducaoPOO.pdb
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.Form1.resources
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.csproj.GenerateResource.cache
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.AssemblyInfo.cs
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.dll
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.pdb
+C:\AvanadeDezembro\introducaoPOO\introducaoPOO\obj\Debug\netcoreapp3.1\introducaoPOO.genruntimeconfig.cache

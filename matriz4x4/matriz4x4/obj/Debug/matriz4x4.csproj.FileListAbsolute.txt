@@ -1,0 +1,10 @@
+C:\AvanadeDezembro\matriz4x4\matriz4x4\bin\Debug\matriz4x4.exe.config
+C:\AvanadeDezembro\matriz4x4\matriz4x4\bin\Debug\matriz4x4.exe
+C:\AvanadeDezembro\matriz4x4\matriz4x4\bin\Debug\matriz4x4.pdb
+C:\AvanadeDezembro\matriz4x4\matriz4x4\obj\Debug\matriz4x4.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\matriz4x4\matriz4x4\obj\Debug\matriz4x4.Form1.resources
+C:\AvanadeDezembro\matriz4x4\matriz4x4\obj\Debug\matriz4x4.Properties.Resources.resources
+C:\AvanadeDezembro\matriz4x4\matriz4x4\obj\Debug\matriz4x4.csproj.GenerateResource.cache
+C:\AvanadeDezembro\matriz4x4\matriz4x4\obj\Debug\matriz4x4.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\matriz4x4\matriz4x4\obj\Debug\matriz4x4.exe
+C:\AvanadeDezembro\matriz4x4\matriz4x4\obj\Debug\matriz4x4.pdb

@@ -1,0 +1,10 @@
+C:\AvanadeDezembro\vetorMedia\vetorMedia\bin\Debug\vetorMedia.exe.config
+C:\AvanadeDezembro\vetorMedia\vetorMedia\bin\Debug\vetorMedia.exe
+C:\AvanadeDezembro\vetorMedia\vetorMedia\bin\Debug\vetorMedia.pdb
+C:\AvanadeDezembro\vetorMedia\vetorMedia\obj\Debug\vetorMedia.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\vetorMedia\vetorMedia\obj\Debug\vetorMedia.Form1.resources
+C:\AvanadeDezembro\vetorMedia\vetorMedia\obj\Debug\vetorMedia.Properties.Resources.resources
+C:\AvanadeDezembro\vetorMedia\vetorMedia\obj\Debug\vetorMedia.csproj.GenerateResource.cache
+C:\AvanadeDezembro\vetorMedia\vetorMedia\obj\Debug\vetorMedia.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\vetorMedia\vetorMedia\obj\Debug\vetorMedia.exe
+C:\AvanadeDezembro\vetorMedia\vetorMedia\obj\Debug\vetorMedia.pdb
