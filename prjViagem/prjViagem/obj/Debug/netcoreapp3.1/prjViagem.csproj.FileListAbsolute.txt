@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\prjViagem\prjViagem\bin\Debug\netcoreapp3.1\prjViagem.exe
+C:\AvanadeDezembro\prjViagem\prjViagem\bin\Debug\netcoreapp3.1\prjViagem.deps.json
+C:\AvanadeDezembro\prjViagem\prjViagem\bin\Debug\netcoreapp3.1\prjViagem.runtimeconfig.json
+C:\AvanadeDezembro\prjViagem\prjViagem\bin\Debug\netcoreapp3.1\prjViagem.runtimeconfig.dev.json
+C:\AvanadeDezembro\prjViagem\prjViagem\bin\Debug\netcoreapp3.1\prjViagem.dll
+C:\AvanadeDezembro\prjViagem\prjViagem\bin\Debug\netcoreapp3.1\prjViagem.pdb
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.Form1.resources
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.csproj.GenerateResource.cache
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.AssemblyInfo.cs
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.dll
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.pdb
+C:\AvanadeDezembro\prjViagem\prjViagem\obj\Debug\netcoreapp3.1\prjViagem.genruntimeconfig.cache

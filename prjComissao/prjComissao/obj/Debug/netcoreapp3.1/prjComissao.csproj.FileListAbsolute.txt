@@ -1,0 +1,16 @@
+C:\AvanadeDezembro\prjComissao\prjComissao\bin\Debug\netcoreapp3.1\prjComissao.exe
+C:\AvanadeDezembro\prjComissao\prjComissao\bin\Debug\netcoreapp3.1\prjComissao.deps.json
+C:\AvanadeDezembro\prjComissao\prjComissao\bin\Debug\netcoreapp3.1\prjComissao.runtimeconfig.json
+C:\AvanadeDezembro\prjComissao\prjComissao\bin\Debug\netcoreapp3.1\prjComissao.runtimeconfig.dev.json
+C:\AvanadeDezembro\prjComissao\prjComissao\bin\Debug\netcoreapp3.1\prjComissao.dll
+C:\AvanadeDezembro\prjComissao\prjComissao\bin\Debug\netcoreapp3.1\prjComissao.pdb
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.csproj.AssemblyReference.cache
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.Form1.resources
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.csproj.GenerateResource.cache
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.GeneratedMSBuildEditorConfig.editorconfig
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.AssemblyInfoInputs.cache
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.AssemblyInfo.cs
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.csproj.CoreCompileInputs.cache
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.dll
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.pdb
+C:\AvanadeDezembro\prjComissao\prjComissao\obj\Debug\netcoreapp3.1\prjComissao.genruntimeconfig.cache
